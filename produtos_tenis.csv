@@ -1,0 +1,101 @@
+codigo_produto,marca_produto,tipo_produto,categoria_produto,preco_unitario,custo_produto,observacoes
+TNS0001,Asics,Skate,Premium,512.07,324.85,
+TNS0002,Nike,Sapatênis,Esportivo,324.37,185.49,Edição limitada
+TNS0003,New Balance,Basquete,Premium,540.78,288.53,Últimas unidades
+TNS0004,Puma,Corrida,Premium,222.77,177.84,Promoção
+TNS0005,Puma,Skate,Esportivo,451.11,250.75,Promoção
+TNS0006,Adidas,Skate,Infantil,275.89,202.65,
+TNS0007,Adidas,Sapatênis,Infantil,417.0,209.23,
+TNS0008,New Balance,Basquete,Premium,294.29,216.65,Últimas unidades
+TNS0009,Nike,Basquete,Premium,360.17,200.9,
+TNS0010,Adidas,Tênis,Casual,599.74,374.12,Promoção
+TNS0011,Asics,Sapatênis,Premium,352.19,247.22,Promoção
+TNS0012,Asics,Basquete,Esportivo,504.21,303.44,Lançamento
+TNS0013,Reebok,Sapatênis,Esportivo,632.39,480.57,Lançamento
+TNS0014,Reebok,Corrida,Infantil,194.88,146.32,Últimas unidades
+TNS0015,Nike,Sapatênis,Premium,234.59,121.27,Edição limitada
+TNS0016,Nike,Corrida,Premium,562.07,293.64,Promoção
+TNS0017,Nike,Skate,Infantil,198.51,109.63,Edição limitada
+TNS0018,Adidas,Tênis,Premium,198.68,145.42,Edição limitada
+TNS0019,Nike,Tênis,Premium,210.29,164.84,Últimas unidades
+TNS0020,Asics,Skate,Casual,697.93,406.85,
+TNS0021,Reebok,Basquete,Casual,649.13,400.51,Lançamento
+TNS0022,Under Armour,Skate,Infantil,676.07,338.87,Edição limitada
+TNS0023,Reebok,Skate,Esportivo,225.77,180.04,Edição limitada
+TNS0024,Under Armour,Skate,Infantil,413.7,279.22,Promoção
+TNS0025,Adidas,Basquete,Esportivo,437.06,287.51,Lançamento
+TNS0026,Nike,Skate,Premium,554.93,329.39,Lançamento
+TNS0027,Adidas,Skate,Premium,396.11,252.68,Lançamento
+TNS0028,Reebok,Tênis,Esportivo,177.03,105.67,Edição limitada
+TNS0029,Reebok,Tênis,Esportivo,392.1,270.93,
+TNS0030,Adidas,Corrida,Esportivo,533.72,359.76,Edição limitada
+TNS0031,Puma,Sapatênis,Premium,692.22,526.97,Últimas unidades
+TNS0032,New Balance,Basquete,Premium,525.98,360.56,
+TNS0033,Under Armour,Tênis,Premium,343.85,252.5,Lançamento
+TNS0034,Asics,Skate,Esportivo,317.46,244.26,Promoção
+TNS0035,Asics,Basquete,Casual,235.12,160.74,Edição limitada
+TNS0036,Reebok,Tênis,Casual,494.94,355.3,Últimas unidades
+TNS0037,Nike,Skate,Esportivo,311.12,187.31,
+TNS0038,New Balance,Sapatênis,Premium,309.48,232.19,Edição limitada
+TNS0039,Puma,Skate,Esportivo,514.45,362.99,Edição limitada
+TNS0040,Nike,Tênis,Esportivo,282.61,190.87,Últimas unidades
+TNS0041,New Balance,Sapatênis,Esportivo,434.26,245.67,Lançamento
+TNS0042,Puma,Sapatênis,Premium,301.95,184.16,
+TNS0043,Reebok,Basquete,Esportivo,417.04,236.18,Lançamento
+TNS0044,Adidas,Skate,Infantil,656.02,440.7,
+TNS0045,Puma,Corrida,Infantil,157.46,91.4,Edição limitada
+TNS0046,Puma,Sapatênis,Premium,552.29,385.47,Lançamento
+TNS0047,Asics,Tênis,Premium,168.12,101.55,Edição limitada
+TNS0048,Nike,Basquete,Infantil,393.69,236.98,Promoção
+TNS0049,Reebok,Skate,Premium,217.63,117.45,Últimas unidades
+TNS0050,Under Armour,Skate,Casual,534.33,359.51,Últimas unidades
+TNS0051,Under Armour,Sapatênis,Esportivo,192.35,142.73,Promoção
+TNS0052,New Balance,Basquete,Esportivo,254.14,131.68,Lançamento
+TNS0053,Nike,Basquete,Infantil,624.34,362.37,Últimas unidades
+TNS0054,Puma,Tênis,Infantil,583.01,306.88,Últimas unidades
+TNS0055,Asics,Skate,Premium,214.61,125.6,Promoção
+TNS0056,New Balance,Skate,Esportivo,578.62,385.69,Lançamento
+TNS0057,Nike,Basquete,Casual,344.86,208.13,
+TNS0058,New Balance,Sapatênis,Esportivo,485.53,345.07,Edição limitada
+TNS0059,New Balance,Sapatênis,Casual,411.34,270.52,Últimas unidades
+TNS0060,Reebok,Basquete,Infantil,636.28,438.62,Últimas unidades
+TNS0061,Adidas,Corrida,Infantil,429.73,274.83,Edição limitada
+TNS0062,Adidas,Sapatênis,Infantil,328.03,236.77,Edição limitada
+TNS0063,Asics,Basquete,Infantil,211.21,120.14,Últimas unidades
+TNS0064,Adidas,Sapatênis,Premium,475.89,302.17,Edição limitada
+TNS0065,Asics,Corrida,Esportivo,401.74,317.85,Últimas unidades
+TNS0066,Nike,Sapatênis,Infantil,305.46,177.16,Edição limitada
+TNS0067,Under Armour,Skate,Esportivo,404.72,292.21,Edição limitada
+TNS0068,Nike,Corrida,Esportivo,192.08,141.41,Promoção
+TNS0069,Adidas,Sapatênis,Premium,483.94,332.26,Edição limitada
+TNS0070,Nike,Tênis,Esportivo,609.87,473.99,Promoção
+TNS0071,Under Armour,Sapatênis,Premium,151.13,97.6,
+TNS0072,Puma,Basquete,Premium,535.56,377.2,Promoção
+TNS0073,Adidas,Corrida,Infantil,452.71,255.55,Promoção
+TNS0074,Asics,Basquete,Premium,667.7,451.65,Edição limitada
+TNS0075,Adidas,Sapatênis,Infantil,406.32,298.65,Lançamento
+TNS0076,Under Armour,Basquete,Casual,358.08,189.09,Edição limitada
+TNS0077,Nike,Sapatênis,Esportivo,292.46,228.16,Últimas unidades
+TNS0078,Under Armour,Tênis,Premium,222.57,168.81,Promoção
+TNS0079,Adidas,Corrida,Esportivo,518.47,308.87,
+TNS0080,Adidas,Skate,Infantil,226.03,127.64,
+TNS0081,Adidas,Basquete,Infantil,397.25,314.35,Edição limitada
+TNS0082,Nike,Skate,Infantil,490.04,370.43,Lançamento
+TNS0083,Puma,Sapatênis,Esportivo,512.9,274.31,Lançamento
+TNS0084,Nike,Corrida,Infantil,346.6,261.0,Edição limitada
+TNS0085,Asics,Skate,Premium,343.37,218.81,Lançamento
+TNS0086,New Balance,Basquete,Casual,231.01,178.4,Últimas unidades
+TNS0087,Nike,Corrida,Casual,559.97,390.33,Lançamento
+TNS0088,Adidas,Sapatênis,Esportivo,588.44,355.65,Promoção
+TNS0089,Puma,Sapatênis,Esportivo,563.76,349.85,Edição limitada
+TNS0090,Puma,Sapatênis,Esportivo,284.46,164.56,
+TNS0091,Asics,Sapatênis,Casual,492.53,275.68,Últimas unidades
+TNS0092,New Balance,Corrida,Infantil,360.62,288.23,Promoção
+TNS0093,Adidas,Tênis,Infantil,342.36,244.83,
+TNS0094,Reebok,Skate,Infantil,409.06,317.32,
+TNS0095,Adidas,Skate,Esportivo,600.2,431.74,
+TNS0096,Under Armour,Skate,Casual,612.57,365.11,
+TNS0097,Puma,Skate,Infantil,378.13,217.01,
+TNS0098,Adidas,Basquete,Casual,464.5,258.25,Lançamento
+TNS0099,Under Armour,Tênis,Premium,488.37,365.06,Últimas unidades
+TNS0100,Under Armour,Sapatênis,Esportivo,579.81,427.06,
